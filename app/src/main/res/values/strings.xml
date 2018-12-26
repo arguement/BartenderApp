@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Bartender App</string>
+    <string name="bartender">Bartender</string>
+    <string name="client">Client</string>
+    <string name="username">Username</string>
+    <string name="Uusername">USERNAME</string>
+
+
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign UP</string>
+
+
+    <string name="test">test</string>
+    <string name="all_clients">All Clients</string>
+    <string name="add_client">Add Client</string>
+    <string name="navigation_drawer_open">Open Navigation drawer</string>
+    <string name="navigaion_drawer_close">Close navigation drawer</string>
+    <string name="add">Add</string>
+    <string name="name">Name</string>
+    <string name="amount">Amount</string>
+</resources>
