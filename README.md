@@ -1,7 +1,7 @@
 # BartenderApp
 
-This is app built to allow bartenders and there clients to keep track of their tabs
+This is app built to allow bartenders and their clients to keep track of their tabs
 
-* allows for registration of a client to with a QR code
-* allows clients to view tabs specific to them
-* bartender can update tab to amount represented on there device
+* allows for registration of a client with a QR code
+* allows clients to view tabs specific to them from anywhere
+* bartenders can update tabs amount and it be represented on their clients device
